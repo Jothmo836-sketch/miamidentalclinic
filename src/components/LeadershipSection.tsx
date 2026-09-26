@@ -15,7 +15,7 @@ const LEADERS: Leader[] = [
     name: 'Dr. Gretell Rodriguez, DDS',
     role: 'Lead Dentist & Dental Surgeon',
     specialty: 'Implants, Cosmetic & Comprehensive Dentistry',
-    image: 'https://images.unsplash.com/photo-1594824813579-253c5e886d52?auto=format&fit=crop&w=700&q=85',
+    image: 'https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=700&q=85',
   },
   {
     name: 'Dr. Carlos Hernandez, DDS',
